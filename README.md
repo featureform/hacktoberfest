@@ -37,7 +37,7 @@ To submit, create a Github issue in the Featureform Repo, add the `hacktoberfest
 - We have **Weekly Slack Community Office Hours** via huddle in #hacktoberfest:
   - 📅 Every Friday from 12 PM to 1 PM PT.
   - Dates: 10/13, 10/20, 10/27.
-- Have additional questions? Ask in our [Slack community](https://join.slack.com/t/featureform-community/shared_invite/zt-xhqp2m4i-JOCaN1vRN2NDXSVif10aQg))!
+- Have additional questions? Ask in our [Slack community](https://join.slack.com/t/featureform-community/shared_invite/zt-xhqp2m4i-JOCaN1vRN2NDXSVif10aQg)!
 
 ## 🎁 Prizes and Swag
 - All contributors that have a merged PR or tutorial submissions will receive commemorative swag and will be entered into a $500 raffle!
